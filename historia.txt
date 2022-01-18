@@ -1,14 +1,11 @@
-<<<<<<< HEAD
-Esta es la historia de andres Espalza Mora
-Anny es mi bb
-Mi mama es Mária Mora
-Mi Nono es Carlos julio Mora
-
-Aura Lineth Ortiz
-=======
 Esta es la historia de andres 
 
 Attiana
 Andres 
 Aura
->>>>>>> cabecera
+
+Master 1
+
+Tatiana 
+Aura 
+Maria
